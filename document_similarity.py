@@ -1,6 +1,6 @@
 import glob
 import os
-file_list = glob.glob(os.path.join(os.getcwd(), "zone/text_mining/document_similarity", "*.txt"))
+file_list = glob.glob(os.path.join(os.getcwd(), "zone/document_similarity", "*.txt"))
 
 raw_documents = []
 
