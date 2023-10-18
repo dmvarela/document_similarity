@@ -1,0 +1,106 @@
+COURSE OUTLINE
+2024/2025
+
+
+
+COURSE NAME: Introduction to Microeconomics
+COURSE CODE: ECON1110
+
+
+COURSE DESCRIPTION
+Microeconomics examines how individuals, firms, and societies use their scarce resources to attain economic goals, and how different economic systems try to solve this central problem of scarcity. Students will learn how individuals make consumption decisions and how firms determine how much to produce and what price to charge for products/services given their costs and the market structure of the industry they operate within. The topics of public sector economics, labour market fundamentals, environmental economics, and income inequality are also examined.
+
+Course Credits: 3.00
+Equivalent Courses: AAC141,ECON186,ECON188,JRSB110
+
+LEARNING OUTCOMES
+
+OUTCOMEUpon successful completion of this course, you will be able to1Evaluate economic theory and analyze the problem of scarcity
+The following concepts, skills, and issues are used to support this Outcome:
+• Explain scarcity and how resource use decisions are affected by rationality assumption, costs, benefits and incentives
+• Define and distinguish micro- vs. macroeconomics
+• Explain scientific method and differentiate between positive and normative economics
+• Describe relationship among theories, policies and socioeconomic goals
+• Draw the production possibilities curve and identify opportunity cost associated with scarcity
+• Define the law of diminishing marginal utility and how it impacts decisions of consumers2Analyze forces of demand and supply in the market system
+The following concepts, skills, and issues are used to support this Outcome:
+• Specify the laws of demand and supply
+• Graph demand and supply curves and find equilibrium
+• Illustrate how changes in demand and supply affect equilibrium
+• Demonstrate real-life examples of price floors and price ceilings
+• Explain how economists assess market efficiency and the conditions that can lead to market failure
+• Calculate price elasticity and illustrate the effects of the determinates of elasticity
+3Produce detailed production cost schedules and predict the firm’s profit-maximizing behaviour(s) The following concepts, skills, and issues are used to support this Outcome:
+• Differentiate between accounting vs. economic profit
+• Calculate and compare short run and long run costs and determine how they affect certain business decisions
+• Distinguish between average costs, marginal costs and diminishing returns (interpret relationships between these costs)
+• Determine the breakeven and shutdown points for a firm4Assess characteristics of a firm and identify the relevant market structure The following concepts, skills, and issues are used to support this Outcome:
+• Define the characteristics of four market structures: perfect competition, monopoly, monopolistic competition and oligopoly
+• Calculate revenue/cost data and use marginal analysis to predict rate of production
+• Define barriers to entry for appropriate market structures
+• Develop short-run supply curves and evaluate long-run behavior under various market structures
+• Explain common types of behavior exhibited by firms in each market structure
+• Identify and explain social costs of various market structures5Critique the economic function of government in Canada and its' role in managing the business environment
+The following concepts, skills, and issues are used to support this Outcome:
+• Identify and explain the political and economic functions of government
+• Distinguish between different types of tax systems and identify major types of taxes and levels within Canada
+• Identify how the government redistributes income
+• Explain externalities in a market and how these occur
+• Discuss the marginal benefits and costs of pollution and the government’s role in protecting the environment
+• Discuss the labour market and evaluate minimum wage
+STUDENT EVALUATION
+
+OUTCOMEACTIVITY DESCRIPTIONMARK DISTRIBUTION1, 2, 3, 4 and 5A. Quizzes and/or assignments30%1, 2 and 3B. Term Exam(s)35%3, 4 and 5C. Final Exam35%TOTAL100%
+COURSE COMPLETION REQUIREMENTS
+The minimum passing grade for this course is grade point of 1.0 (50% or D). Higher grades may be required to use the course for transfer credit or to satisfy professional designation criteria. Please refer to the Grades Procedure AD 2.2 for more details on your calculation requirements to determine the grading level required to maintain satisfactory academic standing, for progression and graduation.
+
+
+
+STUDENT EQUIPMENT AND SUPPLIES
+Texas Instrument BA II plus or professional calculator.
+
+All JR Shaw School of Business students are required to possess a computing device, either a desktop or laptop, that will meet the minimum technology requirements. This will enable you to engage in our digital learning environment and to participate in online assessments. In addition to the minimum technology requirements, your computing device must also support both audio and video streaming technologies and, as a result, must include hardware (either internal or external) such as a microphone and webcam. A broadband (high speed) internet connection is also required.
+
+Your computing device must meet the following minimum technology requirements:
+
+Windows:
+
+• Windows 10
+• Processor: Intel i Series 4th Gen or Better or AMD Ryzen Series
+• Memory: 4 GB RAM minimum, 8 GB RAM recommended
+• Solid State Drive recommended or Hard Drive (minimum free space 15 GB)
+• Display resolution: 1366 x 768 minimum, 1920 x 1080 recommended
+• Wi-Fi connection: Wireless N, AC or better
+• 	Antivirus Protection: Windows Defender and Windows Firewall are recommended to protect your device and are pre- installed on your Windows computer
+
+Apple:
+
+• Mac Hardware Requirements: MacBook (Late 2009 or newer) MacBook Pro (Mid 2010 or newer) MacBook Air (Late 2010 or newer)
+• MacOS High Sierra (10.13) or later
+• Memory: 4 GB RAM minimum, 8 GB recommended
+• Solid State Drive recommended or Hard Drive (minimum free space 15 GB)
+• 	Antivirus Protection: No additional software is needed. Built-in firewall and security software available in System Preferences
+
+Note: while tablets can support your learning, they are not recommended as a main device.
+
+DELIVERY METHOD
+Face-to-face, Evening, and asynchronous online delivery.
+
+STUDENT RESPONSIBILITY
+It is expected that students will be responsible citizens of the Institute by following the Student Rights and Responsibilities Policy(SR 1.0). As such, each student will assist in the preservation of Institute property, and assume responsibility for their education by staying informed of and abiding by academic requirements and policies; demonstrating respect toward others; and meet expectations concerning attendance, assignments, deadlines, and appointments.
+
+EQUITY AND INCLUSION STATEMENT
+NAIT is committed to advancing equity and to actively and intentionally creating learning environments that promote a sense of belonging and dignity that ensure all people are safe, respected and valued. Acknowledging that every member of the NAIT community has a role in and responsibility to this work, NAIT provides the resources and support necessary for programs, departments and individuals to champion equity, diversity and inclusion and address barriers in meaningful ways.
+
+TERRITORIAL ACKNOWLEDGEMENT
+At NAIT, we honour and acknowledge that the land on which we learn, work and live is Treaty Six territory. We seek to learn from history and the lessons that have come before us, and to draw on the wisdom of the First Peoples in Canada. Only through learning can we move forward in truth and reconciliation, and to a better future together.
+
+
+Leadership Review Date: May 18, 2023
+
+
+
+Changes to This Course Outline: Every effort has been made to ensure that information in this course outline is accurate at the time of publication. The Institute reserves the right to change courses if it becomes necessary so that course content remains relevant. In such cases, the instructor will give the students clear and timely notice of the changes.
+All Rights Reserved: No part of this course outline may be reproduced in any form or resold without written permission from NAIT. Copyright 2023.
+
+
